@@ -26,5 +26,5 @@ Para soportar futuras consultas analíticas y mantener la consistencia, la base 
 
 ## Resultados
 * A continuación se muestra el esquema relacional de la base de datos aplicando un modelado en estrella
-![Esquema relacional](<img width="1179" height="856" alt="EsquemaEstrella" src="https://github.com/user-attachments/assets/dec0ec33-42e2-4277-ab4e-2b14ed94aafe" />
+![Esquema relacional](<img width="1179" height="856" alt="EsquemaEstrella" src="https://github.com/user-attachments/assets/36bbe83e-3fed-4a6a-9df7-93322909fbba" />
 )
