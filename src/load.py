@@ -8,6 +8,9 @@ from sqlalchemy import types
 load_dotenv()
 
 def obtener_conexion():
+    """
+    Falta añadir comentarios
+    """
   
     password = os.getenv('PASSWORD_DB')
     username = os.getenv('USER_DB')

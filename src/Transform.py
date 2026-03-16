@@ -1,7 +1,9 @@
 import pandas as pd
 
 def transformacion_productos(datosP):
-    
+    """
+    Falta añadir comentarios
+    """
     try:
         dfP = pd.json_normalize(datosP, sep='_')
 

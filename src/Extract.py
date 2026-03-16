@@ -2,6 +2,9 @@ import requests
 
 
 def extraer_productos():
+    """
+    Falta añadir comentarios
+    """
     urlP = "https://fakestoreapi.com/products"
     respuestaP = requests.get(urlP)
 
